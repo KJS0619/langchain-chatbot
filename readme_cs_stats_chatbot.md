@@ -112,5 +112,4 @@ openai
 ## 📜 라이선스
 
 MIT License
-
-![alt text](image.png)
+<img width="1687" height="762" alt="image" src="https://github.com/user-attachments/assets/b67ad0c9-ca70-4a42-869f-8331662ee1f9" />
